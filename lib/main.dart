@@ -43,7 +43,7 @@ class LandingPage extends StatelessWidget {
               
               // Título Grande
               const Text(
-                'Bienvenido a mi Servidor',
+                'Bienvenido a mi Servidor de minecraft!',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 48,
