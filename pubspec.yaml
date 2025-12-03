@@ -1,5 +1,5 @@
 name: landing_page
-description: Una landing page simple en Flutter.
+description: Una landing page profesional en Flutter Web.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,8 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # Iconos de material design
+  # Iconos por defecto
   cupertino_icons: ^1.0.2
+  # AÑADE ESTA LÍNEA: Fuentes de Google
+  google_fonts: ^6.1.0
 
 dev_dependencies:
   flutter_test:
