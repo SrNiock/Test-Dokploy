@@ -108,7 +108,7 @@ class _HeroSection extends StatelessWidget {
         ),
         const SizedBox(height: 20),
         Text(
-          'Tu Infraestructura,\nSimplificada.(Prueba de auto Deploy!)',
+          'Tu Test de infraestructura ,\nSimplificada.(Prueba de auto Deploy!)',
           textAlign: textAlign,
           style: GoogleFonts.poppins(
             fontSize: isDesktop ? 60 : 40,
